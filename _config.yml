@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Harry Davidson
+description: "Building scalable distributed systems. Go enthusiast. Advocate for clean architecture through domain-driven design principles. Driven by solving complex problems at scale."
+logo: ./images/headshot.jpeg
