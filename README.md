@@ -1,20 +1,18 @@
-# Backend Engineer
+## Backend Engineer
 
-## About
+### About
 
-Currently working on developing savings products at Atom Bank.
+Currently working on the Savings team at Atom Bank.
 
-I use Vim BTW
-
-Go Enthusiast
-
-## Projects
+### Projects
 
 - [github.com/h-dav/envconfig](https://www.github.com/h-dav/envconfig) - A low dependency Go package for .env files.
 
+- [github.com/h-dav/cronutil](https://www.github.com/h-dav/cronutil) - A job scheduling Go package.
+
 - [github.com/h-dav/itertools](https://www.github.com/h-dav/itertools) - Bunch of iteration tools. (Archived as of Go 1.23's introduction of iterators)
 
-## Experience
+### Experience
 
 Atom Bank - Backend Engineer (October 2023 - Current)
 
@@ -22,4 +20,4 @@ Accenture - Live Support Engineer & Backend Engineer (September 2019 - October 2
 
 ## Contact
 
-[github.com/h-dav](https://www.github.com/h-dav) | [LinkedIn](www.linkedin.com/in/harry-d-958934172)
+[github.com/h-dav](https://www.github.com/h-dav) | [harry.cr.davidson@gmail.com](mailto:harry.cr.davidson@gmail.com)
