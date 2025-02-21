@@ -1,5 +1,7 @@
 ## Backend Engineer
 
+- [Blogs](./blogs/blogs.md)
+
 ### About
 
 Currently working on the Savings team at Atom Bank.
