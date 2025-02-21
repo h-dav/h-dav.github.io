@@ -1,6 +1,6 @@
-## Backend Engineer
+[Home](./README.md) | [Blogs](./blogs/blogs.md)
 
-- [Blogs](./blogs/blogs.md)
+## Backend Engineer
 
 ### About
 
