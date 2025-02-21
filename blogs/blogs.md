@@ -1,3 +1,3 @@
-[Home](./README.md) | [Blogs](./blogs/blogs.md)
+[Home](../README.md) | [Blogs](./blogs.md)
 
 ## Blogs
